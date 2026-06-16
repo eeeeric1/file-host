@@ -1,0 +1,36 @@
+html, body {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+/* text */
+p, span, li, a {
+  color: #e0e0e0 !important;
+}
+
+/* headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+}
+
+/* links */
+a {
+  color: #8ab4f8 !important;
+}
+
+/* inputs / buttons */
+input, textarea, select, button {
+  background-color: #1e1e1e !important;
+  color: #e0e0e0 !important;
+  border: 1px solid #333 !important;
+}
+
+/* cards / containers */
+div, section, article, main {
+  background-color: transparent !important;
+}
+
+/* images slightly dimmed (optional) */
+img {
+  filter: brightness(0.9) contrast(1.1);
+}
